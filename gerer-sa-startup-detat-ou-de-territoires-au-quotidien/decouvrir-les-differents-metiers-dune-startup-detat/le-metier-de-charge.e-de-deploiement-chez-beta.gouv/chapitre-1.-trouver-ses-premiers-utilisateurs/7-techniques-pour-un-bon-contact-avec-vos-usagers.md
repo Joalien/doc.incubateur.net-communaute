@@ -1,6 +1,6 @@
 # 🔧 7 techniques pour un bon contact avec vos usagers
 
-## **1. Trouver des contact**
+## **1. Trouver des contacts**
 
 * Faite une cartographie des parties prenantes de votre environnement et attaquez-vous au plus faciles 
 * Utilisez les organigrammes
@@ -19,7 +19,7 @@
 
 * Demandez des contacts aux autres startups de Beta.gouv. 
 * Utilisez la marque de l’Etat pour convaincre les contacts intermédiaires de vous communiquer le contact de votre cible. 
-* Utilisez Linkedin pour trouver la bonne personne ou celle qui pourra vous mettre en relation avec elle. Pensez à mettre à jours votre profil Linkedin --&gt; [Voir cet atelie](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/acquisition#acquisition-de-leads-via-linkedin)r
+* Utilisez Linkedin pour trouver la bonne personne ou celle qui pourra vous mettre en relation avec elle. Pensez à mettre à jour votre profil Linkedin --&gt; [Voir cet atelie](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jactive-la-croissance-de-ma-se-growth-hacking/les-principes-du-growth-hacking/acquisition#acquisition-de-leads-via-linkedin)r
 
 ## **2. Trouver le bon contact** 
 
@@ -28,19 +28,19 @@ Le contact parfait à ces caractéristiques :
 1. il partage le constat sur le problème \(irritant\) avec vous
 2. il n’a pas de bonne solution pour résoudre le problème
 3. il est décisionnaire pour utiliser ou faire utiliser votre produit
-4. il est en capacité de l'utiliser ou de le faire utiliser dans un délai relativement court.
+4. il est en capacité de l'utiliser ou de le faire utiliser dans un délai relativement court
 5. il est autonome pour l’utiliser ou le faire utiliser
-6. il a de bonnes chances de voir son problèmes en partie réglé grâce à votre produit
+6. il a de bonnes chances de voir son problème en partie réglé grâce à votre produit
 
 ## **3. Travailler son pitch**
 
 * **Quel objectif** ?  Il vous faut savoir avec quoi vous voulez sortir du rdv. Exemple : l’interlocuteur me donne des contacts / teste mon produit / présente mon produit. 
 * **Pour qui** ? Adaptez votre discours et vos objectifs aux attentes et enjeux de votre interlocuteur. Vous pouvez définir les différentes personae en amont. Attention à ne pas être trop “vendeur” ou “généraliste”, votre pitch doit aussi permettre d’exclure les personnes qui ne sont pas dans votre cible.  Exemple : un agriculteur est intéressé par l’usage qu’il peut avoir de l’outil alors que la cellule Ecophyto est intéressée par son impact environnemental. 
-* **Écrivez er répétez votre accroche en amont**. Cela permet d’ordonner vos idées, de vous assurer qu’elles sont adaptées à l’interlocuteur et de  vous exprimer clairement et succinctement.
+* **Écrivez et répétez votre accroche en amont**. Cela permet d’ordonner vos idées, de vous assurer qu’elles sont adaptées à l’interlocuteur et de vous exprimer clairement et succinctement.
 
 * **Avoir un story telling** : le pitch, c’est une histoire. Un fil rouge guide l’histoire et même si l’on s’en écarte pour raconter une anecdote ou répondre à une question, on raccroche toujours les wagons. On connaît la trame de cette histoire sur le bout des doigts, tout est sachant la raconter d’une manière un peu différente à chaque fois. 
 
-* **Être expert de son sujet** : pouvoir expliquer les choix qui ont été faits,  avoir des anecdotes, montrer qu'on connaît parfaitement son produit / service. Parler des chiffres, des retours utilisateurs, parler concret. 
+* **Être expert de son sujet** : pouvoir expliquer les choix qui ont été faits, avoir des anecdotes, montrer qu'on connaît parfaitement son produit / service. Parler des chiffres, des retours utilisateurs, parler concret. 
 
 * **S'intéresser à son interlocuteur**, lui poser des questions \(sur son métier, son usage…\). Cela vous donnera des éléments de compréhension de votre environnement, vous ouvrira des opportunités et vous permettra d’adapter votre discours. En face de chaque élément de besoin, on pourra s’aligner avec son offre ou identifier là où l’offre ne peut justement pas répondre.
 
@@ -48,7 +48,7 @@ Le contact parfait à ces caractéristiques :
 
 * **Répéter une ou deux fois le discours puis se lancer** : les premières fois sont toujours difficiles mais on s’en remet. Commencer par les contacts avec le moins d’enjeu \(on contacte le préfet en dernier\).
 
-* **Être enthousiaste** quand on parle de notre produit et rassurer. On vous conseille de vous répeter ce mantra : "j’aime mon produit, et je suis convaincue de son impact sur mon interlocuteur". 
+* **Être enthousiaste** quand on parle de son produit et rassurer. On vous conseille de vous répeter ce mantra : "j’aime mon produit, et je suis convaincue de son impact sur mon interlocuteur". 
 
 * **Le ton et la gestuelle** sont aussi importants que les mots.
 
@@ -62,13 +62,13 @@ Le contact parfait à ces caractéristiques :
 
   * **le produit** / ce que nous cherchons à réaliser
   * **contexte** : dans quel cadre, avec quelles institutions
-  * **une seule demande d’actio**n : ce que vous demandez à l'utilisateur et ce pourquoi vous lui écrivez ce mail. Cette demande d’action doit arriver rapidement dans le mail et peut être répétée en bas si besoin. 
-  * **un élément de réassuranc**e pour mettre le destinataire en confiance : exemple : le service est gratuit et volontaire
-  * **Toujours avoir quelque chose à offrir**. C’est du donnant-donnant. En théorie, on n’envoie pas un mail à quelqu’un si on a rien à lui offrir.
-  * **Être explicite** : utiliser un vocabulaire simple et compréhensible par votre interlocuteur. Si vous faîtes une référence, mettez un lien hypertexte vers une page qui l’explique.
-  * **Aérer le texte** : une idée par paragraphe
+  * **une seule demande d’action** : ce que vous demandez à l'utilisateur et ce pourquoi vous lui écrivez ce mail. Cette demande d’action doit arriver rapidement dans le mail et peut être répétée en bas si besoin. 
+  * **un élément de réassurance** pour mettre le destinataire en confiance : exemple : le service est gratuit et volontaire.
+  * **toujours avoir quelque chose à offrir**. C’est du donnant-donnant. En théorie, on n’envoie pas un mail à quelqu’un si on a rien à lui offrir.
+  * **être explicite** : utiliser un vocabulaire simple et compréhensible par votre interlocuteur. Si vous faîtes une référence, mettez un lien hypertexte vers une page qui l’explique.
+  * **aérer le texte** : une idée par paragraphe
   * Avoir **trois niveaux de typographie maximum** 
-  * **Intégrer son numéro de téléphone et un lien vers son produit** / institution dans sa signature. \(La signature ne doit pas être une image.\)
+  * **intégrer son numéro de téléphone et un lien vers son produit** / institution dans sa signature. \(La signature ne doit pas être une image.\)
 
 Ressource utile : The Pyramid Principle \(= méthode de communication structurée\) [https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
 
@@ -145,14 +145,14 @@ Les objectifs d’un premier OpenLab sont :
 Les modalités de réalisation sont décrites sur cette page : [https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/realiser-un-openlab](https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/jameliore-le-design-et-lexperience-utilisateur/realiser-un-openlab)  
 ****
 
-## **7. Trouver ces 1er usagers avec des Ads** 
+## **7. Trouver ses 1er usagers avec des Ads** 
 
 On n'y pense pas forcément, mais il est tout à fait possible de dépenser quelques euros pour aller chercher les usagers là où ils sont : sur internet. Et tout cela en quelques heures ou quelques jours.  
 
 ## **Exemples d'usages :** 
 
 * Acheter sur Google Adwords les mots clefs correspondants à l’irritant que votre produit essaie de résoudre. Exemple :
-  * quand un internaute tape sur google “allergie pollens paris” une annonce pour la SE Reposante apparaît 
+  * quand un internaute tape sur google “allergie pollens paris” une annonce pour la SE Recosanté apparaît 
   * quand internaute tape “cas contact que faire” une annonce pour mesconseilscovid.sante.gouv.fr
 * Sponsoriser un de vos post ou événement sur Linkedin afin qu’il soit vu par les personnes qui travaillent dans l’administration et dont le post est “responsable” ou “directeur” de l’innovation ou de la transformation numérique. 
 * Afficher un annonce sur Facebook ciblant les Parents de l’Oise afin de leur demander de donner leur avis sur la cantine de leurs enfants. Ex pour Anti Gaspi cantine : 250 parents ont ainsi permis en 7 jours de valider une hypothèse produit. Parmi eux, 80 ont accepté de devenir beta testeurs. 
